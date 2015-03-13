@@ -1,5 +1,5 @@
 {
-  "name": "grunt-protractor-runner",
+  "name": "fork-grunt-protractor-runner",
   "description": "A Grunt plugin for running protractor runner.",
   "version": "1.2.3",
   "homepage": "https://github.com/jackspaniel/grunt-protractor-runner",
